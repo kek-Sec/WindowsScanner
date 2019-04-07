@@ -1,2 +1,8 @@
 # WindowsScanner
 Gets information of a windows system
+
+#ANTIVIRUS INFO
+#PRINTERS INFO
+#NETWORK INFO(IPS,LAN IPS,MAC ADRESSES)
+#RUNNING PROCESSES
+#HIDES ITSELF
