@@ -5,6 +5,7 @@ Gets information of a windows system
     <li><b>ANTIVIRUS INFO</b></li>
     <li><b>NETWORK INFO(IPS,LAN IPS,MAC ADRESSES)</b></li>
     <li><b>RUNNING PROCESSES</b></li>
+    <li><b>PRINTERS INFO</b></li>
     <li><b>HIDES ITSELF</b></li>
     <li><b>SCREENSHOTS and output file</b></li>
   </ul>
